@@ -1,0 +1,14 @@
+C:\Users\Jake\class-dev\Projects\Student Database\bin\Debug\net6.0\Student Database.exe
+C:\Users\Jake\class-dev\Projects\Student Database\bin\Debug\net6.0\Student Database.deps.json
+C:\Users\Jake\class-dev\Projects\Student Database\bin\Debug\net6.0\Student Database.runtimeconfig.json
+C:\Users\Jake\class-dev\Projects\Student Database\bin\Debug\net6.0\Student Database.dll
+C:\Users\Jake\class-dev\Projects\Student Database\bin\Debug\net6.0\Student Database.pdb
+C:\Users\Jake\class-dev\Projects\Student Database\obj\Debug\net6.0\Student Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\class-dev\Projects\Student Database\obj\Debug\net6.0\Student Database.AssemblyInfoInputs.cache
+C:\Users\Jake\class-dev\Projects\Student Database\obj\Debug\net6.0\Student Database.AssemblyInfo.cs
+C:\Users\Jake\class-dev\Projects\Student Database\obj\Debug\net6.0\Student Database.csproj.CoreCompileInputs.cache
+C:\Users\Jake\class-dev\Projects\Student Database\obj\Debug\net6.0\Student Database.dll
+C:\Users\Jake\class-dev\Projects\Student Database\obj\Debug\net6.0\refint\Student Database.dll
+C:\Users\Jake\class-dev\Projects\Student Database\obj\Debug\net6.0\Student Database.pdb
+C:\Users\Jake\class-dev\Projects\Student Database\obj\Debug\net6.0\Student Database.genruntimeconfig.cache
+C:\Users\Jake\class-dev\Projects\Student Database\obj\Debug\net6.0\ref\Student Database.dll
